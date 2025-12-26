@@ -1,0 +1,11 @@
+langgraph>=0.2.24
+openai>=1.40.0
+python-dotenv>=1.0.1
+requests>=2.31.0
+twilio>=9.0.0
+streamlit>=1.37.0
+requests
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings

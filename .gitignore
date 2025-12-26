@@ -1,0 +1,11 @@
+.env
+*.env
+*.lgvenv
+.lgvenv
+__pycache__
+__pycache__/
+.DS_Store
+Thumbs.db
+.dockerignore
+logs/
+*.log   
