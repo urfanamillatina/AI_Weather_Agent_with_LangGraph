@@ -15,14 +15,11 @@
     <img src="https://img.shields.io/badge/Platform-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
-
 <p align="center">
-  <a href="https://youtu.be/gxQYR12ikKc" target="_blank">
-    <img src="./assets/demo.gif" width="600" alt="AI Weather Agent Demo Preview" style="border-radius: 10px;">
-    <br>
-    <strong style="font-size: 18px;">▶️ Watch Full Demo on YouTube</strong>
-  </a>
+  <img src="./assets/demo.gif" alt="Watch the demo" width="800"/><br/>
+  <em>Demo: AI Weather Agent with LangGraph </em>
 </p>
+
 
 <p align="center">
 <h3 align = "center"> Notification Outputs
